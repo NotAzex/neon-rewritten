@@ -1,0 +1,8 @@
+name: Neon Rewritten
+version: '1.0'
+main: mom.zesty.neonRewritten.NeonRewritten
+api-version: '1.20'
+prefix: [ Neon ]
+authors: [ Azex ]
+description: Neon, but it's rewritten.
+website: https://discord.gg/nKEa5NxRew
