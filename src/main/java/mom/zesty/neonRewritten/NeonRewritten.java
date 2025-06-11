@@ -7,7 +7,7 @@ public final class NeonRewritten extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        getLogger().info("Loading Neon Rewritten...");
+        getLogger().info("Loading Neon Rewritten!");
         getLogger().info(" | Running on Java " + System.getProperty("java.version"));
         getLogger().info(" | Server version " + Bukkit.getVersion());
     }
