@@ -11,6 +11,8 @@ public final class NeonRewritten extends JavaPlugin {
         getLogger().info(" | Running on Java " + System.getProperty("java.version"));
         getLogger().info(" | Server version " + Bukkit.getVersion());
         getLogger().info("Made by Azex | @notazex");
+        getLogger().info(" | Consider joining the Pop discord!");
+        getLogger().info(" | https://discord.gg/nKEa5NxRew");
     }
 
     @Override
