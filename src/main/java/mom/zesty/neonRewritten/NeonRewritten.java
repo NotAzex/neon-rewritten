@@ -10,6 +10,7 @@ public final class NeonRewritten extends JavaPlugin {
         getLogger().info("Loading Neon Rewritten!");
         getLogger().info(" | Running on Java " + System.getProperty("java.version"));
         getLogger().info(" | Server version " + Bukkit.getVersion());
+        getLogger().info("Made by Azex | @notazex");
     }
 
     @Override
